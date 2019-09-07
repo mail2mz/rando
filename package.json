@@ -1,9 +1,6 @@
 {
   "name": "rando",
   "version": "1.0.0",
-  "engines": {
-  	"node": "8.15.0"
-  }
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
@@ -16,5 +13,8 @@
   },
   "keywords": [],
   "author": "",
-  "description": ""
+  "description": "",
+    "engines": {
+    	"node": "8.15.0"
+  }
 }
